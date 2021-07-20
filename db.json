@@ -10,6 +10,8 @@
          "order_number":1001,
 
          "hash":"d89f3a35931c386956c1a402a8e09941",
+         
+         "customer_name":"Riberto Dontini",
 
          "date":"20.07.2021",
 
@@ -29,6 +31,8 @@
 
          "date":"18.07.2021",
 
+         "customer_name":"Cowboy Cocktail",
+
          "notes":"HI I am a note too ",
           
          "styles":["SCANDINAVIAN"],
@@ -44,6 +48,8 @@
          "hash":"f5dffc111454b227fbcdf36178dfe6a",
 
          "date":"19.07.2021",
+
+         "customer_name":"Manchuro Vigheze",
 
          "notes":"HI I am a note also ",
 
