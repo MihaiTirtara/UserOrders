@@ -14,6 +14,8 @@
          "customer_name":"Riberto Dontini",
 
          "date":"20.07.2021",
+         
+         "order_type":"Premium",
 
          "notes":"HI I am a note ", 
 
@@ -32,6 +34,8 @@
          "date":"18.07.2021",
 
          "customer_name":"Cowboy Cocktail",
+         
+         "order_type":"Premium",
 
          "notes":"HI I am a note too ",
           
@@ -50,6 +54,8 @@
          "date":"19.07.2021",
 
          "customer_name":"Manchuro Vigheze",
+          
+         "order_type":"Standard",
 
          "notes":"HI I am a note also ",
 
