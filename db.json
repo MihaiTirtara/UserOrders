@@ -8,7 +8,10 @@
       {
 
          "order_number":1001,
+
          "hash":"d89f3a35931c386956c1a402a8e09941",
+
+         "date":"20.07.2021",
 
          "notes":"HI I am a note ", 
 
@@ -24,6 +27,8 @@
 
          "hash":"9103c8c82514f39d8360c7430c4ee557",
 
+         "date":"18.07.2021",
+
          "notes":"HI I am a note too ",
           
          "styles":["SCANDINAVIAN"],
@@ -35,7 +40,10 @@
       {
 
          "order_number":1003,
+
          "hash":"f5dffc111454b227fbcdf36178dfe6a",
+
+         "date":"19.07.2021",
 
          "notes":"HI I am a note also ",
 
